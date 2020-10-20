@@ -1,4 +1,4 @@
-# Week 5: Test automation concept and tools
+# Week 9-10: Test automation concept and tools
 
 ## What will I learn?
 
@@ -23,7 +23,7 @@ We’ll learn about the concept of test automation and know some automation tool
 ## What if I want to know more!?
 
 - [Automation Testing Tools: The Ultimate Guide For 2020](https://testguild.com/automation-testing-tools/)
-- [11 top open-source test automation frameworks: How to choose] (https://techbeacon.com/app-dev-testing/top-11-open-source-testing-automation-frameworks-how-choose)
+- [11 top open-source test automation frameworks: How to choose](https://techbeacon.com/app-dev-testing/top-11-open-source-testing-automation-frameworks-how-choose)
 - [Automation testing frameworks](https://smartbear.com/learn/automated-testing/test-automation-frameworks/)
 - [More video about automation testing](https://www.linkedin.com/learning/search?keywords=QA&upsellOrderOrigin=default_guest_learning&trk=learning-path_learning-search-bar_search-submit)
 
