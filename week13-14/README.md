@@ -1,4 +1,4 @@
-# Week 7: Basic of Application programming interface (API) and Path to production. 
+# Week 13-14: Basic of Application programming interface (API) and Path to production. 
 
 ## What will I learn?
 
