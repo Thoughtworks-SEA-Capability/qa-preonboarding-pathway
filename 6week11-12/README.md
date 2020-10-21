@@ -2,14 +2,25 @@
 
 ## What will I learn?
 
+We’ll learn about Gauge, the test automation tool by ThoughtWorks and we are going to use in it the sample project. 
 
 ## What should I learn as homework?
 
-## What will we do in coaching session?
+- [Why test the user journey?](https://www.thoughtworks.com/es/insights/blog/why-test-user-journey?) (~ 15 min)
+- [UI test using Gauge: Overview part first](https://docs.gauge.org/overview.html?os=macos&language=javascript&ide=vscode) ( ~ 20 min)
+- [User Journey Testing using Gauge by Scott Davis](https://www.youtube.com/watch?v=pSdpXmwhFXo) (~20 min) 
+- [Getting started with Gauge and Taiko](https://www.youtube.com/watch?v=F2t57TbMNng) (~15 min) 
+- [Get start from Gauge document](https://docs.gauge.org/getting_started/installing-gauge.html?os=macos&language=javascript&ide=vscode)
 
+
+## What will we do in coaching session?
+- Exercise: <To be updated>
+- Another example of project 
+- https://github.com/getgauge-examples
+- [We will walk through the test script together.](https://github.com/getgauge-examples/js-taiko)
 
 ## What if I want to know more!?
-
+- [Webinar] [User Journey Testing with Gauge and Taiko by Scott Davis](https://youtu.be/gXK-0lGGNSQ)
 
 ---
 

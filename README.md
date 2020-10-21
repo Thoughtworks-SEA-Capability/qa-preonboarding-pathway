@@ -7,7 +7,7 @@ Quality Analyst is an important role in ThoughtWorks that helps us deliver bette
 Quality Analysts are usually responsible for detailed functionality testing with edge cases. They help teams achieve fast feedback by levaraging stable test automation suite.
 They are a key to achieving efficient and continuous quality software delivery.
 
-At ThoughtWorks, Quality oriented teams relies heavily on Quality Analysts throughout the software delivery lifecycle.
+At ThoughtWorks, quality oriented teams relies heavily on Quality Analysts throughout the software delivery lifecycle.
 
 In this program, we plan to groom our people into someone who wants to grow in the test automation field, so that they have enough breadth with basics to be able to contribute in a project as a Quality Analyst and they should be able to deep dive into more about specific topic further themselves.
 
