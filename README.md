@@ -2,10 +2,9 @@
 
 Quality Analysts is an important role in ThoughtWorks that helps shape the software delivery.
 
-Quality Analyst is an important role in ThoughtWorks that helps us deliver better software products. 
+Quality Analyst is an important role in ThoughtWorks that helps us deliver better software products.
 
-Quality Analysts are usually responsible for detailed functionality testing with edge cases. They help teams achieve fast feedback by levaraging stable test automation suite.
-They are a key to achieving efficient and continuous quality software delivery.
+Quality Analysts are usually responsible for detailed functionality testing with edge cases. They help teams achieve fast feedback by levaraging stable test automation suite. They are a key to achieving efficient and continuous quality software delivery.
 
 At ThoughtWorks, quality oriented teams relies heavily on Quality Analysts throughout the software delivery lifecycle.
 
@@ -19,8 +18,7 @@ So, we should now be on the same page around intention of this program. Let's lo
 
 This program will last for 16 weeks.
 
-Every two weeks, we are choosing one topic & we will ask you to do some homework beforehand (Maximum 4-6 hrs) for that topic.
-Then at the end of 2 weeks, we will have practice session with your assigned coach. During practice session, you will hack together/discuss with your coach & practice what you learned by following pre-planned exercises together.
+Every two weeks, we are choosing one topic & we will ask you to do some homework beforehand \(Maximum 4-6 hrs\) for that topic. Then at the end of 2 weeks, we will have practice session with your assigned coach. During practice session, you will hack together/discuss with your coach & practice what you learned by following pre-planned exercises together.
 
 Below is the high level timeline for each week.
 
